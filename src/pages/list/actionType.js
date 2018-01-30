@@ -1,0 +1,1 @@
+export const GETLISTINFO = "list/getlist-info"

@@ -1,0 +1,1 @@
+export const CONT_LIST = 'index/cont-list'

@@ -1,0 +1,8 @@
+export const LOGIN_SHOW = "login/login-show"
+export const LOGIN_CANCEL = "login/login-cancel"
+export const LOGIN_USERNAME = "login/login-username"
+export const LOGIN_PASSWORD = "login/login-password"
+export const REGISTER_SHOW = "login/register-show"
+export const REGISTER_CANCEL = "login/register-cancel"
+export const LOGIN_ERR = "login/login-err"
+export const ISLOGON = "login/islogin"

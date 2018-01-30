@@ -1,0 +1,82 @@
+html {
+	height: auto!important;
+}
+.index-cont {
+	padding-bottom: 10px;
+	border: 1px solid #ff4444;
+}
+.index-cont .index-cont-title {
+	background: #ff4444;
+	line-height: 25px;
+	color: #fff;
+	font-size: 12px;
+	text-align: left;
+	padding-left: 15px;
+}
+body {
+	background: #edf8fe!important;
+}
+.index-cont .ant-list-header {
+	line-height: 25px;
+    font-weight: normal;
+    background: #ff4444;
+    color: #fff;
+    font-size: 12px;
+    text-align: left;
+    padding: 0;
+    padding-left: 15px;
+}
+.index-cont .index-cont-header .index-cont-item {
+	padding: 0;
+	border: 0;
+	padding-left: 15px;
+	height: 22px;
+    font-size: 12px;
+    color: #879f4f;
+}
+.footer-cont {
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid #0066cc;
+}
+.footer-cont .ant-list-header {
+	line-height: 25px;
+    font-weight: normal;
+    background: #0066cc;
+    color: #fff;
+    font-size: 12px;
+    text-align: left;
+    padding: 0;
+    padding-left: 15px;
+}
+.footer-cont .ant-list-empty-text {
+	padding: 0;
+}
+.footer-cont .ant-spin-container {
+	display: flex;
+	justify-content: space-around;
+}
+.footer-cont .footer-item .ant-list-item-content{
+	margin: 0;
+}
+.footer-cont .ant-list-sm .ant-list-item {
+	padding: 0;
+	font-size: 12px;
+}
+.footer {
+	margin-top: 4px;
+    height: 90px;
+    background: #f8f8f8;
+    border: 1px solid #aaa;
+    text-align: center;
+}
+.footer .first-p {
+	line-height: 30px;
+    text-align: center;
+    margin: 0;
+}
+.footer .sectnd-p {
+	line-height: 30px;
+    text-align: center;
+    margin: 0;
+}

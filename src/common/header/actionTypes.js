@@ -1,0 +1,1 @@
+export const INDEX_INFO = 'header/index-info'

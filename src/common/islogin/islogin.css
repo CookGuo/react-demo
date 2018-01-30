@@ -1,0 +1,20 @@
+.btn-cont {
+	float: left;
+	margin-right: 20px;
+}
+.header-login {
+	position: absolute;
+	top: 0;
+	right: 10px;
+	z-index: 1;
+	padding: 2px 0;
+}
+.header-message {
+	position: absolute;
+	z-index: 1;
+	left: -200px;
+}
+.ant-btn {
+	height: auto;
+	padding: 0;
+}
